@@ -20,7 +20,7 @@ class Config(_base.Config):
   CUSTOM = True
   NAME = "Dataverse Project Data Commons - custom.py"
   OVERRIDE_CSS_PATH = '/custom_dc/custom/overrides.css'
-  LOGO_PATH = "/custom_dc/custom/logo.png"
+  LOGO_PATH = "/custom_dc/custom/dataverse_logo.png"
   SHOW_DISASTER = False
 
 
